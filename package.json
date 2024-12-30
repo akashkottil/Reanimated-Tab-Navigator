@@ -1,0 +1,36 @@
+{
+  "name": "react-native-animated-tab-navigator",
+  "version": "1.0.0",
+  "description": "A customizable animated bottom tab navigator for React Native",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/react-native-animated-tab-navigator.git"
+  },
+  "keywords": [
+    "react-native",
+    "tab-navigator",
+    "bottom-tabs",
+    "animated-tabs",
+    "custom-tabs",
+    "navigation"
+  ],
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/react-native-animated-tab-navigator/issues"
+  },
+  "homepage": "https://github.com/yourusername/react-native-animated-tab-navigator#readme",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-native": ">=0.60.0",
+    "@react-navigation/bottom-tabs": ">=6.0.0",
+    "expo-linear-gradient": ">=12.0.0"
+  }
+} 
